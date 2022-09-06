@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="6ac4f7b5-2767-4950-9c73-6cf4de857677" name="Changes" comment="Part 3: Failing test case">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Restaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Restaurant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Item.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Restaurant.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Restaurant.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +55,7 @@
       <recent name="C:\Users\JANNAT\IdeaProjects\Restaurant_finder\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.RestaurantTest.select_item_from_list_should_return_order_cost">
+  <component name="RunManager" selected="JUnit.RestaurantTest">
     <configuration name="RestaurantServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Restaurant_finder" />
       <option name="PACKAGE_NAME" value="" />
@@ -102,10 +106,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RestaurantTest" />
         <item itemvalue="JUnit.RestaurantTest.select_item_from_list_should_return_order_cost" />
         <item itemvalue="JUnit.RestaurantTest.removing_item_that_does_not_exist_should_throw_exception" />
         <item itemvalue="JUnit.RestaurantServiceTest" />
-        <item itemvalue="JUnit.RestaurantTest" />
         <item itemvalue="JUnit.RestaurantTest.is_restaurant_open_should_return_false_if_time_is_outside_opening_and_closing_time" />
       </list>
     </recent_temporary>
