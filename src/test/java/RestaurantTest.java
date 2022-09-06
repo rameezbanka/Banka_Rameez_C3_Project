@@ -74,5 +74,4 @@ class RestaurantTest {
         assertEquals(388,totalCost);
     }
 
-
 }
